@@ -18,3 +18,13 @@ var n=2;
 //n/=2;//n=n/2
 //n%=2;//n=n%2
 console.log(n);
+
+
+// increment 
+var i=j = 2;
+// post increment
+var x = i++;//x=i then  i++
+// pre increment
+var y = ++j;//i++ than i++
+
+console.log(x,y)
