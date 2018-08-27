@@ -1,13 +1,13 @@
-// comparison operator -smaller or greater
-// var n=10;
-// if(n<10){
-//     console.log(n,'is smaller than 10');
-// }else if(n==10){
-//     console.log(n,'is equal to 10');
-// }
-// else{
-//     console.log(n,'is greater than 10');
-// }
+//comparison operator -smaller or greater
+var n=10;
+if(n<10){
+    console.log(n,'is smaller than 10');
+}else if(n==10){
+    console.log(n,'is equal to 10');
+}
+else{
+    console.log(n,'is greater than 10');
+}
 
 
 // if condition -jamal & kamal
@@ -32,7 +32,13 @@ if("Jamal"==personOne && "Kamal"==personTwo && areTheyBrother){
 }
 
 
-
+// equal to or not equal to
+// var n = 8;
+// if(8==n){
+//     console.log(n,'is equal to',8);
+// }else{
+//     console.log(n,'is not equal to 8');
+// }
 
 
 // conditional statement
