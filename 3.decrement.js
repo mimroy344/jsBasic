@@ -14,3 +14,15 @@ console.log(a,b);
 var n=2;
 n+=2;//n=n+2
 console.log(n);
+
+
+// pre decrement
+var i=5;
+var x = --i;//i++ then x=i
+
+console.log('x=',x);
+
+// post decrement
+var i = 5;
+var y = i--;//y=i then i++
+console.log('y=',y);
