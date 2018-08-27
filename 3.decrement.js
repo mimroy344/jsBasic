@@ -24,5 +24,19 @@ console.log('x=',x);
 
 // post decrement
 var i = 5;
-var y = i--;//y=i then i++
+var y = i--;//y=i then i--
 console.log('y=',y);
+
+
+// decrement
+var i=5;
+var a =--i;
+console.log(a);
+
+var i=5;
+var b=i--;
+console.log(b);
+
+// compound assignment operator
+var x= a+=b;
+console.log(a,x)
