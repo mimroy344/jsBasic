@@ -28,3 +28,15 @@ var x = i++;//x=i then  i++
 var y = ++j;//i++ than i++
 
 console.log(x,y)
+
+
+
+// compound assignment operator
+var a = 3;
+var b = 2;
+var addition =a+=b;//a=a+b
+var subtraction = a-=b;//a=a-b
+var multiplication = a*=b;//a=a*b
+var division = a/=b;//a=a/b
+var remainder = a%=b;//a=a%b
+console.log(addition,subtraction,multiplication,division,remainder)
